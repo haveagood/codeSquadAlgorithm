@@ -6,8 +6,8 @@ import java.util.Scanner;
 public class numSort {
 
     public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+//        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+//        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 //        int num = br.read();
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
